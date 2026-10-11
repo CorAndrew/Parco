@@ -1,0 +1,7 @@
+C:\Users\andrea\Desktop\C#\Parco-master\Parco\bin\Debug\Parco.exe.config
+C:\Users\andrea\Desktop\C#\Parco-master\Parco\bin\Debug\Parco.exe
+C:\Users\andrea\Desktop\C#\Parco-master\Parco\bin\Debug\Parco.pdb
+C:\Users\andrea\Desktop\C#\Parco-master\Parco\obj\Debug\Parco.csproj.AssemblyReference.cache
+C:\Users\andrea\Desktop\C#\Parco-master\Parco\obj\Debug\Parco.csproj.CoreCompileInputs.cache
+C:\Users\andrea\Desktop\C#\Parco-master\Parco\obj\Debug\Parco.exe
+C:\Users\andrea\Desktop\C#\Parco-master\Parco\obj\Debug\Parco.pdb
